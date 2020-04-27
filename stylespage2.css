@@ -1,0 +1,23 @@
+h1{
+    text-align:center;
+    width: 90%;
+    color: indigo;
+    height: 75px;
+    padding: 50px;
+    background-color: lightgray;
+    font-family: cursive;
+    border: 15px solid darkred;
+    display: block;
+}
+body{
+    background-color: darkolivegreen;
+    font-family: cursive;
+    text-align:center;
+    color: ivory;
+}
+#jesus {
+    position: sticky;
+}
+#ninja {
+    position: absolute;
+}
